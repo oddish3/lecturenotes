@@ -16,3 +16,6 @@ master files of lecture notes
 |                 | PDF file                                                      |
 |-----------------|---------------------------------------------------------------|
 | Micro Econometrics | [me_master.pdf](https://nbviewer.org/github/oddish3/lecturenotes/blob/master/micro-econ_master.pdf) |
+|                 | PDF file                                                      |
+|-----------------|---------------------------------------------------------------|
+| Dissertation | [Dissertation Notes_master.pdf](https://nbviewer.org/github/oddish3/lecturenotes/blob/master/notes_master.pdf) |
