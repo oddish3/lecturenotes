@@ -19,4 +19,4 @@ master files of lecture notes
 
 |                 | PDF file                                                      |
 |-----------------|---------------------------------------------------------------|
-| Micro Econometrics | [Dissertation Notes_master.pdf](https://nbviewer.org/github/oddish3/lecturenotes/blob/master/notes_master.pdf) |
+| Dissertation Notes | [Dissertation Notes_master.pdf](https://nbviewer.org/github/oddish3/lecturenotes/blob/master/notes_master.pdf) |
